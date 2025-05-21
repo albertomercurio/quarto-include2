@@ -1,0 +1,17 @@
+---
+title: "Some Title"
+---
+# Some File
+
+Some text here.
+
+```{python}
+#| label: some_label
+
+import numpy as np
+
+print("Hello, world!")
+
+np.random.rand(3)
+```
+

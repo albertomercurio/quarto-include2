@@ -1,0 +1,11 @@
+---
+title: "Include2 Example"
+format: pdf
+execute: 
+  cache: false
+---
+
+## Heading
+
+{{< include2 somefolder/somefile.qmd#some_label >}}
+
